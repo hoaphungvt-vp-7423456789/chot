@@ -25,7 +25,7 @@
             placeholder="password"
             name="pwd"
             >
-            <button type="submit">Login</button>
+            <button type="submit">đăng nhập</button>
         </form>
     </main>
     <footer>
